@@ -1,3 +1,3 @@
 # Codes
 Secure important files by password.
-Every moment excute file need password, you disable it if want.
+Every moment excute file need password, you can disable it if want.
