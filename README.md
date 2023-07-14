@@ -1,2 +1,3 @@
 # Codes
-Secure important files by password without need to use encryption
+Secure important files by password.
+Every moment excute file need password, you disable it if want.
